@@ -1,0 +1,7 @@
+sleep:
+    type: daily
+    continuous: y
+    duration:
+        type: exact
+        value: 8
+    priority: 8
